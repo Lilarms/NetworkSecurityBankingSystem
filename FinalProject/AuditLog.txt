@@ -1,0 +1,3 @@
+ID: IDClient, Input: 1, Amount: 100, MAC Address: fKUT4LzL3h4SLZB99pLaJiRMCQVpPjnAmjQCBcGV3TQ=, Time: Wed Apr 10 01:43:13 EDT 2024
+ID: IDClient, Input: 2, Amount: 100, MAC Address: fKUT4LzL3h4SLZB99pLaJiRMCQVpPjnAmjQCBcGV3TQ=, Time: Wed Apr 10 01:45:09 EDT 2024
+ID: IDClient, Input: 3, Amount: 1000, MAC Address: null, Time: Wed Apr 10 01:45:47 EDT 2024
